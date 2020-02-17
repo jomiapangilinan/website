@@ -1,0 +1,19 @@
+1. HTML Skeleton
+
+2. Header
+
+3. Nav
+
+4. About
+
+5. Services
+
+6. Portfolio
+
+7. Hire Me section
+
+8. Contact Form
+
+*font-awesome icons
+*java script bubbles animation
+*one page responsive 
